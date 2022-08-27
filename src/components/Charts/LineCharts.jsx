@@ -1,8 +1,8 @@
 import React from "react";
 
-const lineCharts = () => {
+const LineCharts = () => {
     return (
         <div>lineCharts</div>
     )
 }
-export default lineCharts
+export default LineCharts
